@@ -1,45 +1,4 @@
-# Core Quantum Frameworks
-qiskit==0.46.0
-qiskit-aer==0.13.1
-qiskit-ibm-runtime==0.20.0
-
-# Fujitsu Quantum (ensure you have SDK access)
-# fujitsu-quantum-sdk==X.X.X  # Update version as needed
-
-# Scientific Computing
-numpy>=1.24.0
-scipy>=1.10.0
-sympy>=1.12
-
-# Data Processing
-pandas>=2.0.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-
-# Code Quality & Testing
-pytest>=7.4.0
-pytest-cov>=4.1.0
-black>=23.7.0
-flake8>=6.0.0
-mypy>=1.5.0
-pylint>=2.18.0
-
-# Documentation
-sphinx>=7.0.0
-sphinx-rtd-theme>=1.3.0
-
-# Jupyter & Notebooks
-jupyter>=1.0.0
-ipython>=8.10.0
-notebook>=7.0.0
-jupyterlab>=4.0.0
-
-# Utilities
-python-dotenv>=1.0.0
-pyyaml>=6.0.0
-tqdm>=4.66.0
-
-# Optional: Project Management Tools
-# These are included for documentation/planning purposes
-# Uncomment if your team uses them
-# sphinx-jupyter>=0.3.2
+pennylane>=0.33.0
+torch>=2.0.0
+numpy>=1.21.0
+matplotlib>=3.5.0
